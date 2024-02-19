@@ -8,9 +8,12 @@ A paper list for Retrieval.
 - SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval [[arxiv2021]](https://arxiv.org/pdf/2109.10086.pdf)
 - COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[arxiv2021]](https://arxiv.org/pdf/2104.07186.pdf)
 - A Unified Framework for Learned Sparse Retrieval [[ECIR2023]](https://arxiv.org/pdf/2303.13416.pdf)
-### Personalized Retrieval
-#### i2i
+## Personalized Retrieval
+### i2i
 - Path-based Deep Network for Candidate Item Matching in Recommenders [[SIGIR2021]](https://arxiv.org/pdf/2105.08246.pdf)
-#### Vector Recall
-##### two-tower structure
+### Vector Recall
+#### two-tower structure
 - Embedding-based Product Retrieval in Taobao Search [[KDD2021]](https://arxiv.org/pdf/2106.09297.pdf)
+## Pretrained Model In NLP
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arxiv2019]](https://arxiv.org/pdf/1910.01108.pdf%3C/p%3E)
+
