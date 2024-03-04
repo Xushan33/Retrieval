@@ -11,7 +11,7 @@ A paper list for Retrieval.
 ## Personalized Retrieval
 ### i2i
 - Path-based Deep Network for Candidate Item Matching in Recommenders [[SIGIR2021]](https://arxiv.org/pdf/2105.08246.pdf)
-- **swing i2i** Large Scale Product Graph Construction for Recommendation in E-commerce [[arxiv2020]](https://arxiv.org/pdf/2010.05525.pdf)
+- **swing i2i** | Large Scale Product Graph Construction for Recommendation in E-commerce [[arxiv2020]](https://arxiv.org/pdf/2010.05525.pdf)
 ### Vector Recall
 #### two-tower structure
 - Embedding-based Product Retrieval in Taobao Search [[KDD2021]](https://arxiv.org/pdf/2106.09297.pdf)
