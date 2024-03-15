@@ -18,3 +18,5 @@ A paper list for Retrieval.
 ## Pretrained Model In NLP
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arxiv2019]](https://arxiv.org/pdf/1910.01108.pdf%3C/p%3E)
 - ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS [[ICLR2020]](https://arxiv.org/pdf/1909.11942.pdf%3E,)
+## Search Strategy
+- Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs [[TPAMI2018]](https://arxiv.org/pdf/1603.09320.pdf?trk=public_post_comment-text)
