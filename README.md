@@ -7,6 +7,7 @@ A paper list for Retrieval.
 - SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking [[SIGIR2021]](https://arxiv.org/pdf/2107.05720.pdf)
 - SPLADE v2: Sparse Lexical and Expansion Model for Information Retrieval [[arxiv2021]](https://arxiv.org/pdf/2109.10086.pdf)
 - COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[arxiv2021]](https://arxiv.org/pdf/2104.07186.pdf)
+- Exploring the Representation Power of SPLADE Models [[ICTIR 2023]](https://arxiv.org/pdf/2306.16680.pdf)
 - A Unified Framework for Learned Sparse Retrieval [[ECIR2023]](https://arxiv.org/pdf/2303.13416.pdf)
 ## Personalized Retrieval
 ### i2i
