@@ -10,6 +10,7 @@ A paper list for Retrieval.
 - COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List [[arxiv2021]](https://arxiv.org/pdf/2104.07186.pdf)
 - Exploring the Representation Power of SPLADE Models [[ICTIR 2023]](https://arxiv.org/pdf/2306.16680.pdf)
 - A Unified Framework for Learned Sparse Retrieval [[ECIR2023]](https://arxiv.org/pdf/2303.13416.pdf)
+- Adapting Learned Sparse Retrieval for Long Documents [[SIGIR2023]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591943)
 ## Personalized Retrieval
 ### i2i
 - Path-based Deep Network for Candidate Item Matching in Recommenders [[SIGIR2021]](https://arxiv.org/pdf/2105.08246.pdf)
