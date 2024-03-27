@@ -22,4 +22,5 @@ A paper list for Retrieval.
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[arxiv2019]](https://arxiv.org/pdf/1910.01108.pdf%3C/p%3E)
 - ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS [[ICLR2020]](https://arxiv.org/pdf/1909.11942.pdf%3E,)
 ## Search Strategy
+- Approximate nearest neighbor algorithm based on navigable small world graphs [[Information Systems2014]](https://www.researchgate.net/profile/Yu-Malkov/publication/259126397_Approximate_nearest_neighbor_algorithm_based_on_navigable_small_world_graphs/links/63733c302f4bca7fd06030b8/Approximate-nearest-neighbor-algorithm-based-on-navigable-small-world-graphs.pdf)
 - Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs [[TPAMI2018]](https://arxiv.org/pdf/1603.09320.pdf?trk=public_post_comment-text)
